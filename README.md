@@ -1,6 +1,6 @@
 ## Github 统计
-![](https://github-readme-stats.vercel.app/api?username=captain5&count_private=true&show_icons=true&theme=onedark)
-
+<!--![](https://github-readme-stats.vercel.app/api?username=captain5&count_private=true&show_icons=true&theme=onedark)-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
 ## 技术栈
 ![Python](https://www.python.org/)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
