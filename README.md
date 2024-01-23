@@ -14,9 +14,6 @@ Python
 
 ## 博客
 
-https://captain5.github.io/
-
-
 https://www.cnblogs.com/v5captain/
 
 <!-- 访客 -->
